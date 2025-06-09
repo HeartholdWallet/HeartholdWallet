@@ -1,5 +1,5 @@
 [project]
-name = "Sylphia"
+name = "HeartholdWallet"
 version = "1.0"
 [limits]
 tx_threshold = 500
